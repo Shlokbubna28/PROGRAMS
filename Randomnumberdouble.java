@@ -31,7 +31,7 @@ public class Randomnumberdouble
             }
             else
             {
-                System.out.println("That's wrong dude, correct answer of " +rn+ "is : " + (2*rn));        // on wrong answer, it breaks // tells the correct answer of that statement
+                System.out.println("That's wrong dude, correct answer of " +rn+ " is : " + (2*rn));        // on wrong answer, it breaks // tells the correct answer of that statement
                 System.out.println(" ");
                 System.out.println("---------------PLEASE START AGAIN---------------");                       
                 break;
